@@ -69,7 +69,6 @@ def apply_svm_and_print_accuracy(main_folder_path, csv_file_path):
     print(f"Accuracy: {accuracy:.2f}")
 
 
-# Specify the path to your main folder and CSV file here
 main_folder_path = 'dataset'
 csv_file_path = 'data.csv'
 
